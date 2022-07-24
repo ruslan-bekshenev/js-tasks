@@ -35,3 +35,10 @@ function anagrams(word, words) {
 
 console.log(anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada']))
 console.log(anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']))
+
+// better solution
+
+function anagrams2(word, words) {
+    word = word.split('').sort().join('');
+    return words.filter(function(v) {return word == v.split('').sort().join('');});
+}
