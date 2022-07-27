@@ -18,7 +18,7 @@ function rgb(r, g, b){
     if (b > 255) {
         b = 'FF'
     }
-    let rHex = r.toString(8).toUpperCase()
+    let rHex = r.toString(16).toUpperCase()
     let gHex = g.toString(16).toUpperCase()
     let bHex = b.toString(16).toUpperCase()
 
