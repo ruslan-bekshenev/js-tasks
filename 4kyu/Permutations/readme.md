@@ -11,3 +11,5 @@ Examples:
 * With input 'aabb'
 * Your function should return ['aabb', 'abab', 'abba', 'baab', 'baba', 'bbaa']
 ```
+
+Уехал в тоб, пока без связи, не пиздите
