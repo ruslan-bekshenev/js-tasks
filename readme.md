@@ -1,4 +1,2 @@
 
 **Задачи с codewars**
-
-test
