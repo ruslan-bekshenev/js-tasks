@@ -9,7 +9,7 @@ For example 48 & 75 is such a pair:
 
 - Divisors of 48 are: 1, 2, 3, 4, 6, 8, 12, 16, 24 --> sum: 76 = 75 + 1
 - Divisors of 75 are: 1, 3, 5, 15, 25 --> sum: 49 = 48 + 1
-
+A
 Task
 Given two positive integers start and limit, the function buddy(start, limit) should return the first pair (n m) of buddy pairs such that n (positive integer) is between start (inclusive) and limit (inclusive); m can be greater than limit and has to be greater than n
 
