@@ -22,6 +22,8 @@ function advice(agents, n) {
     }));
     console.log('33')
     console.log('2')
+    console.log('44')
+    console.log('44')
     
     return safest;
 }
