@@ -20,6 +20,6 @@ function advice(agents, n) {
             safest.push([i, j]);
         }
     }));
-
+    console.log('1')
     return safest;
 }
